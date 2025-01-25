@@ -44,4 +44,4 @@ For detailed analysis and implementation, refer to the full article:
 
 👩‍💻 **Itisha Sharma**  
 Data Science Professional | Passionate about actionable insights for real-world impact  
-[Medium Profile](https://medium.com/@theivision) | [Portfolio](#)
+[Medium Profile](https://medium.com/@theivision) | [Portfolio](https://theivision.wordpress.com/)
